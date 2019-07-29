@@ -19,11 +19,11 @@ requires = [
 ]
 
 setup(
-    name='agile_opd',
+    name='d-growth',
     version='1.0',
-    description='agile_opd',
-    author='Anurag Sharma',
-    author_email='anurag@ambrosialinfo.com',
+    description='d-growth',
+    author='Unkown',
+    author_email='unknown@jameswatson.tkneih',
     packages=find_packages(),
     include_package_data=True,
     zip_safe=False,
