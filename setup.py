@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 requires = [
     'Flask==1.0.2',
-    'Werkzeug==0.14.1',
+    'Werkzeug==0.15.3',
     'Click==7.0',
     'itsdangerous==1.1.0',
     'Jinja2==2.10',
