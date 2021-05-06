@@ -8,7 +8,7 @@ requires = [
     'Jinja2==2.10',
     'MarkupSafe==1.0',
     'colander==1.5.1 ',
-    'Flask-Cors==3.0.6',
+    'Flask-Cors==3.0.9',
     'Flask-SQLAlchemy==2.3.2',
     'Flask-Migrate == 2.3.0',
     'psycopg2 == 2.7.6.1',
